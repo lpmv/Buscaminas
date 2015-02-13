@@ -1,5 +1,4 @@
 # Buscaminas
-============
 *Es un sencillo juego de buscaminas en consola*
 
 **Equipo**
