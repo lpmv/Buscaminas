@@ -2,6 +2,7 @@
 Es un sencillo juego de buscaminas en consola
 
 **Equipo**
+
 -Javier Hernandez Mendoza
 
 -Alejandro Martinez Torres
