@@ -53,9 +53,9 @@ while minaE != 5:
         y2 =int( input ("Ingresa coordenada x:  ")) -1
         x2 = int(input ("Ingresa coordenada y:  ")) -1
         if matriz[x2][y2]==-1 :
-            suma = suma + 1
+            minaE = minaE + 1
             matriz2[x2][y2]=-1
-            if suma==minas:
+            if MinaE==5:
                 imprimeMatriz (matriz2)
                 print ("Ganaste :D")
                 break
